@@ -54,9 +54,9 @@ Descripción:
 - Desarrollar distintos tipos de funcionalidades como: visualización de productos, detalles, seguimientos a las ordenes de compra, registro de usuarios, ingreso de usuarios, control de inventario, seguimiento a las ordenes de compra, entre otros.
 - Realizar la aplicación utilizando tecnologías y/o librerías como: React.js, Node.js, Express.js, CSS, Bootstrap, PostgreSQL, Sequelize.
 
-<p align="left"><img src="./img/captura2.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/captura14.png" alt="project1" width="500" height="300"></img></p>
-<p align="left"><img src="./img/captura8.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/captura4.png" alt="project1" width="500" height="300"></img></p>
-<p align="left"><img src="./img/captura13.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/captura11.png" alt="project1" width="500" height="300"></img></p>
+<p align="left"><img src="./img/captura2.png" alt="project1" width="300" height="300"></img>;&nbsp;<img src="./img/captura14.png" alt="project1" width="300" height="300"></img></p>
+<p align="left"><img src="./img/captura8.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/captura4.png" alt="project1" width="300" height="300"></img></p>
+<p align="left"><img src="./img/captura13.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/captura11.png" alt="project1" width="300" height="300"></img></p>
 
 <br />
 <hr />
@@ -74,5 +74,5 @@ Descripción:
 - Realizar funcionalidades como: visualización de cada uno de los videojuegos de la API en la pagina principal, filtrado de la información por categorías y plataformas, ordenado de la información por rating, orden aflabético y fecha de publicación, barra de busqueda y creación / añadir nuevos videojuegos a la base de datos propia.
 - Utilizar tecnologías como: React.js, JavaScript, Node.js, Express.js, PostgreSQL y CSS puro.
 
-<p align="left"><img src="./img/individual1.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/individual2.png" alt="project1" width="500" height="300"></img></p>
-<p align="left"><img src="./img/individual3.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/individual4.png" alt="project1" width="500" height="300"></img></p>
+<p align="left"><img src="./img/individual1.png" alt="project1" width="300" height="300"></img>;&nbsp;<img src="./img/individual2.png" alt="project1" width="300" height="300"></img></p>
+<p align="left"><img src="./img/individual3.png" alt="project1" width="500" height="300"></img>;&nbsp;<img src="./img/individual4.png" alt="project1" width="300" height="300"></img></p>
