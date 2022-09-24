@@ -10,11 +10,11 @@ Me apasiona la tecnología y programación y el apredizaje de nuevo conocimiento
 
 Mi portafolio:
 
-<a href="https://portafolio-ever.vercel.app/" target="_blank" rel="noreferrer"><img src="./img/briefcase.png" width="40" height="40" ></img></a>
+<a href="https://portafolio-ever.vercel.app/" target="_blank" rel="noopener noreferrer" ><img src="./img/briefcase.png" width="40" height="40" ></img></a>
 
 Mi perfil en LinkedIn:
 
-<a href="https://www.linkedin.com/in/ever-ramirez-mahecha-8b6708137/" target="_blank" rel="noreferrer"><img src="./img/linkedin.png" width="40" height="40" ></img></a>
+<a href="https://www.linkedin.com/in/ever-ramirez-mahecha-8b6708137/" target="_blank" rel="noopener noreferrer" ><img src="./img/linkedin.png" width="40" height="40" ></img></a>
 
 <hr />
 
