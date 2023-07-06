@@ -4,7 +4,7 @@
 
 # Hola! soy Ever Ramirez
 
-Ingeniero Ambiental 🌿 y Desarrollador FullStack 💻
+Desarrollador FullStack 💻 e Ingeniero Ambiental 🌿
 
 Me apasiona la tecnología y programación y el apredizaje de nuevo conocimiento. Soy una persona con mucha curiosidad que siempre esta buscando algo nuevo que aprender para luego aplicarlos a algún tipo de proyecto o idea. Mis intereses en el área de programación que estan tanto en el backend🔌 como en el frontend💡.
 
