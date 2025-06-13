@@ -6,7 +6,11 @@
 
 Desarrollador FullStack 💻 e Ingeniero Ambiental 🌿
 
-Me apasiona la tecnología y programación y el apredizaje de nuevo conocimiento. Soy una persona con mucha curiosidad que siempre esta buscando algo nuevo que aprender para luego aplicarlos a algún tipo de proyecto o idea. Mis intereses en el área de programación que estan tanto en el backend🔌 como en el frontend💡.
+Tengo 2 años de experencia como desarrollador, en donde he participado en la construcción de varias aplicaciones web en sectores como contabilidad, salud, cadena de suministro, e-commerce, tramites gubernamentales, entre otros; en estos proyectos fortalecí mis habilidades técnicas sobre el manejo de lenguajes de programación, frameworks y librerías como JavaScript, TypeScript, Angular, React, MongoDB, PostgreSQL, Node.js, Express.js, Java, Spring Boot, Docker, Microservicios, TailwindCSS y Metodologías Agiles para gestión de proyecto. Además, he desarrollado y fortalecido varias de mis competencias como el trabajo en equipo, gestión del tiempo, orientación a resultados, capacidad de análisis, adaptabilidad e innovación.
+
+Actualmente me encuentro en busca de nuevas oportunidades, por lo que si te gusta mi perfil y quieres conocer más puedes contactarme al correo: ever.ramirezmahecha@gmail.com
+
+También encontraras adjunto mi portafolio en donde puedes encontrar los proyectos tanto personales como profesionales que he desarrollado.
 
 Mi portafolio:
 
@@ -22,7 +26,7 @@ Mi perfil en LinkedIn:
 
 ## Lenguajes de programación
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Desarrollo Frontend
 
