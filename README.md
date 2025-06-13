@@ -27,18 +27,10 @@ Mi perfil en LinkedIn:
 ## Lenguajes de programación
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right:20px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right:20px;"> 
-        <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="40" height="40"/>
-    </a>  
-    <a href="https://www.java.com/es/" target="_blank" rel="noreferrer" style="margin-right:20px;"> 
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>  
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right:20px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:20px;"/> 
+    <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="40" height="40" style="margin-right:20px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40" style="margin-right:20px;"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ## Desarrollo Frontend
