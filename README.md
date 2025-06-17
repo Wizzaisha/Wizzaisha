@@ -122,14 +122,14 @@ Descripción:
   modificación de nuevas vistas y el flujo de datos para estos.
 
 <p align="left">
-    <img src="./img/renta1.png" alt="renta1" width="400" height="300"></img>
+    <img src="./img/renta1.jpg" alt="renta1" width="400" height="300"></img>
     &nbsp;
-    <img src="./img/renta2.png" alt="renta2" width="400" height="300"></img>
+    <img src="./img/renta2.jpg" alt="renta2" width="400" height="300"></img>
 </p>
 <p align="left">
-    <img src="./img/renta3.png" alt="renta3" width="400" height="300"></img>
+    <img src="./img/renta3.jpg" alt="renta3" width="400" height="300"></img>
     &nbsp;
-    <img src="./img/renta4.png" alt="renta4" width="400" height="300"></img>
+    <img src="./img/renta4.jpg" alt="renta4" width="400" height="300"></img>
 </p>
 
 <br />
