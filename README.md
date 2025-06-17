@@ -86,43 +86,107 @@ Actualmente me encuentro aprendiendo más sobre estas habilidades técnicas
 
 <hr />
 
-# Mis proyectos
+# Proyectos profesionales
 
-## Henry Hardware
+## ApiGlobal
 
 Repositorio en GitHub:
 
-<a href="https://github.com/Wizzaisha/Proyecto-Grupal-Componentes-PC">Project Henry Hardware</a>
+<!-- <a href="">Project Henry Hardware</a> --> N.A.
 
 Link del deploy del proyecto:
 
-<a href="https://proyecto-grupal-componentes-3zjq7qgo7-wizzaisha.vercel.app/">Deploy Henry Hardware</a>
+<!-- <a href="https://proyecto-grupal-componentes-3zjq7qgo7-wizzaisha.vercel.app/">ApiGlobal</a> --> N.A.
 
 Descripción:
 
-- Diseñar una aplicación web para la venta y comercialización de componentes de computadores.
-- Desarrollar distintos tipos de funcionalidades como: visualización de productos, detalles, seguimientos a las ordenes de compra, registro de usuarios, ingreso de usuarios, control de inventario, seguimiento a las ordenes de compra, entre otros.
-- Realizar la aplicación utilizando tecnologías y/o librerías como: React.js, Node.js, Express.js, CSS, Bootstrap, PostgreSQL, Sequelize.
+- Migrar la aplicación de la empresa en versión de Angular 12 a la versión de Angular 18
+  basada en módulos, con toda su lógica correspondiente, la cual cuenta con más de 41
+  módulos o vistas principales. Y apoyándose para la generación de estilos con TailwindCSS y
+  el control de estados con NGRX.
+- Optimizar la lógica de los módulos migrados por medio de una refactorización de estos para
+  mejorar los tiempos de renderizado y la visualización de la información dentro de la vista;
+  siguiendo los principios SOLID para garantizar un código limpio y reutilizable.
+- Conectar y optimizar la conexión de los endpoints provenientes del backend, manejando los
+  estados de error o respuesta exitosa dependiendo del caso.
+- Construcción de componentes reutilizables como Inputs, Modales, Botones, Selectores, entre
+  otros para evitar el reusó de código de manera innecesaria y tener una consistencia de
+  estilos a lo largo de la aplicación.
+- Mejorar la lógica para la sesión del usuario para refrescar y obtener el token utilizando
+  Firebase por medio de interceptores.
+- Configurar y utilizar NGRX para la gestión de estados dentro de la aplicación y garantizar un
+  flujo claro y que se actualicen los datos de forma correcta cuando se genera alguna acción.
+- Mejorar la estructura de carpetas (scaffolding) con el fin de mantener una estructura clara,
+  sencilla y de fácil estabilidad y mantenimiento para la aplicación.
+- Apoyar al equipo backend con tareas relacionadas a requisitos para la construcción o
+  modificación de nuevas vistas y el flujo de datos para estos.
 
-<p align="left"><img src="./img/captura2.png" alt="project1" width="400" height="300"></img>;&nbsp;<img src="./img/captura14.png" alt="project1" width="400" height="300"></img></p>
-<p align="left"><img src="./img/captura8.png" alt="project1" width="400" height="300"></img>;&nbsp;<img src="./img/captura4.png" alt="project1" width="400" height="300"></img></p>
-<p align="left"><img src="./img/captura13.png" alt="project1" width="400" height="300"></img>;&nbsp;<img src="./img/captura11.png" alt="project1" width="400" height="300"></img></p>
+<p align="left">
+    <img src="./img/renta1.png" alt="renta1" width="400" height="300"></img>
+    &nbsp;
+    <img src="./img/renta2.png" alt="renta2" width="400" height="300"></img>
+</p>
+<p align="left">
+    <img src="./img/renta3.png" alt="renta3" width="400" height="300"></img>
+    &nbsp;
+    <img src="./img/renta4.png" alt="renta4" width="400" height="300"></img>
+</p>
 
 <br />
 <hr />
 <br />
 
-## Videogames API
+# Proyectos personales
+
+## CountriesAPI Page (Reto de Frontendmentor)
 
 Repositorio en GitHub:
 
-<a href="https://github.com/Wizzaisha/PI---Videogames">Videogames API</a>
+<a href="https://github.com/Wizzaisha/api-countries">api-countries</a>
+
+Link del deploy del proyecto:
+
+<a href="https://api-countries-git-main-wizzaishas-projects.vercel.app/">live-site</a>
 
 Descripción:
 
-- Construir una APP de videojuegos que utilizara y/o consumiera los datos de la API RAWG.
-- Realizar funcionalidades como: visualización de cada uno de los videojuegos de la API en la pagina principal, filtrado de la información por categorías y plataformas, ordenado de la información por rating, orden aflabético y fecha de publicación, barra de busqueda y creación / añadir nuevos videojuegos a la base de datos propia.
-- Utilizar tecnologías como: React.js, JavaScript, Node.js, Express.js, PostgreSQL y CSS puro.
+- Integrar la API "Rest Countries API" para traer y visualizar data de los paises en una lista y un detalle de estos.
+- Realizar un botón para el cambio de tema de la aplicación (oscuro - claro).
+- Tecnologias usadas: React.ts - Vite, TailwindCSS, Redux.
 
-<p align="left"><img src="./img/individual1.png" alt="project1" width="400" height="300"></img>;&nbsp;<img src="./img/individual2.png" alt="project1" width="400" height="300"></img></p>
-<p align="left"><img src="./img/individual3.png" alt="project1" width="400" height="300"></img>;&nbsp;<img src="./img/individual4.png" alt="project1" width="400" height="300"></img></p>
+<p align="left">
+    <img src="./img/countries1.png" alt="countries1" width="400" height="300"></img>
+    &nbsp;
+    <img src="./img/countries2.png" alt="countries2" width="400" height="300"></img>
+</p>
+<p align="left">
+    <img src="./img/countries3.png" alt="countries3" width="400" height="300"></img>
+</p>
+
+## Kanban Task Management App (Reto de Frontendmentor)
+
+Repositorio en GitHub:
+
+<a href="https://github.com/Wizzaisha/kanban-front2">client</a>
+<a href="https://github.com/Wizzaisha/kanban-back2">api</a>
+
+Link del deploy del proyecto:
+
+<a href="https://kanban-client-six.vercel.app/">live-site</a>
+
+Descripción:
+
+- Construir una aplicación completamente funcional para la gestión de tareas con un cambio de tema (oscuro - claro).
+- Realizar una api en Java Spring Boot para gestionar la creación, obtención, actualización y eliminación de las actividades y tableros.
+- Tecnologias usadas: Angular, Spring Boot, MySQL, TailwindCSS, NgRx.
+
+<p align="left">
+    <img src="./img/kaban1.png" alt="kaban1" width="400" height="300"></img>
+    &nbsp;
+    <img src="./img/kaban2.png" alt="kaban2" width="400" height="300"></img>
+</p>
+<p align="left">
+    <img src="./img/kaban3.png" alt="kaban3" width="400" height="300"></img>
+    &nbsp;
+    <img src="./img/kaban4.png" alt="kaban4" width="400" height="300"></img>
+</p>
